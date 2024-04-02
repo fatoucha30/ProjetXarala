@@ -5,4 +5,55 @@
 body{
     background-color: white;
     background-size: 50px;
+    padding: 60px;
+}
+.cha{
+    color: white ;
+    background-color: rgba(4, 61, 4, 0.836) ;
+    padding-left: 20px;
+    padding-right: 50px;
+
+
+}
+.fa{
+    margin-top:50px; 
+}
+.dim{
+    margin-top: -40px;
+
+}
+.header{
+    display: flex;
+}
+.wrap{
+   width: 100%;
+   padding: 10px;
+   margin-top: -40px; 
+}
+.img{
+    margin-left: 700px;
+    height: 200px;
+    width:100px;
+  
+ 
+
+}
+li{
+    display: inline;
+    margin-left: 10px;
+}
+.hat{
+     margin-top: 10px;
+     /*text-align: left.;
+    display:inline-flex;
+     width: 1000px;
+    ;
+   margin-left: 800px; */
+
+}
+
+.icone {
+    float: right;
+    margin-top:-33px;
+    padding: 10px;
 }
